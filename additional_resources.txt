@@ -1,0 +1,5 @@
+https://github.com/KQLMSPress/definitive-guide-kql# -> KQL guide book
+
+https://gist.github.com/azurekid/b1459a1f8cc49aee68fe005301d145bc -> some additional KQL coding standards
+
+https://gist.github.com/alwashali/ff5db240909473304a74221492c7a07e -> MS Defender KQL schema
